@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{272B34E4-A3DE-45F6-A7AB-933404776810}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTesteShare.iOS/Info.plist">
+    <Files>
+      <File FileName="XamarinTesteShare/MainPage.xaml.cs" Line="20" Column="32" />
+      <File FileName="XamarinTesteShare/MainPage.xaml" Line="52" Column="1" />
+      <File FileName="XamarinTesteShare/ViewModelPage.cs" Line="103" Column="20" />
+      <File FileName="XamarinTesteShare.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinTesteShare" expanded="True">
+            <Node name="XamarinTesteShare.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinTesteShare.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.6ca7c2dfbc590ed06e837ab6eaf1d7678d47db88" />
+  <MonoDevelop.Ide.ItemProperties.XamarinTesteShare.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../Downloads/SharePlugin-master/.vs/Share/xamarin-evolve-mobile/XamarinEvolve/XamarinEvolve.Clients.UI/Converters/DateConverters.cs" line="17" offsetX="712" offsetY="304" expression="value" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.XamarinTesteShare.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

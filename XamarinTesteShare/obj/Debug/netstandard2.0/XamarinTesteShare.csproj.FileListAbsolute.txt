@@ -1,0 +1,13 @@
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/bin/Debug/netstandard2.0/XamarinTesteShare.deps.json
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/bin/Debug/netstandard2.0/XamarinTesteShare.dll
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/bin/Debug/netstandard2.0/ref/XamarinTesteShare.dll
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/bin/Debug/netstandard2.0/XamarinTesteShare.pdb
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/XamarinTesteShare.csprojAssemblyReference.cache
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/XamarinTesteShare.AssemblyInfoInputs.cache
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/XamarinTesteShare.AssemblyInfo.cs
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/XamarinTesteShare.dll
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/ref/XamarinTesteShare.dll
+/Users/tbenaias/Documents/Projects/XamarinTesteShare/XamarinTesteShare/obj/Debug/netstandard2.0/XamarinTesteShare.pdb
